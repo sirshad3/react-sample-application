@@ -1,0 +1,59 @@
+#gridContainer {
+    max-height: 360px;
+  }
+  
+  .options {
+    margin-top: 10px;
+    /* padding: 5px; */
+    background-color: rgba(191, 191, 191, 0.15);
+    position: relative;
+  }
+  
+  .caption {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .option-container {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+  }
+  
+  .option {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .option-caption {
+    white-space: nowrap;
+    margin: 0 8px;
+  }  
+
+  
+
+  /* tr:nth-of-type(odd) { 
+    background: #eee;
+    height: 35px; 
+  } */
+  /* th { 
+    background: #333; 
+    color: white; 
+    font-weight: bold;
+    height: 20px; 
+  }
+  td, th { 
+    padding: 2px; 
+    border: 1px solid #ccc; 
+    text-align: left; 
+    height: 20px; 
+  } */
+  
+  /* .Active {
+    background-color: aqua;
+    color: blue;
+  } */
+
+  /* Header Height*/
+  

@@ -1,0 +1,23 @@
+.nav-container {
+    display: flex;
+   background-color:  #c2c4bf;
+
+  }
+  
+  .nav-content {
+    flex-grow: 1;
+    width: 100%;
+    /* min-width: 500px; */
+    overflow: clip;
+    font-weight: bold;
+  }
+
+  /* .divImage-container 
+{
+  width: 6%;
+  padding: 8px;
+}
+.image-container 
+{
+  width: 100%;
+} */
